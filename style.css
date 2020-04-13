@@ -1,0 +1,11 @@
+.logintextcolor{
+    color: darkgray;
+}
+.logon{
+    float: right;
+    margin: 0px 2px 0px 0px;
+}
+.signup{
+    float: right;
+    margin: 0px 10px 0px 15px;
+}
